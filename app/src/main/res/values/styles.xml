@@ -1,0 +1,8 @@
+<resources>
+    <style name="Preference_Text_View">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">40dp</item>
+        <item name="android:gravity">left|center_vertical</item>
+        <item name="android:paddingLeft">10dp</item>
+    </style>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PreferenceUtils</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="chat_enabled">chat enabled: %s</string>
+    <string name="user_name">user name: %s</string>
+</resources>
